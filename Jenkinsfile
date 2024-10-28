@@ -49,7 +49,7 @@ pipeline {
       }*/
     }
   }
-  post {
+  //post {
     //always {
 
     //}
@@ -59,5 +59,5 @@ pipeline {
     //failure {
 
     //}
-  }
+  //}
 }
